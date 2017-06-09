@@ -1,8 +1,12 @@
 body{ background-color: lightblue;
-
 }
 .message{
 width: 10em;
 height: 5em;
 color: red;
+}
+.messageTwo{
+width: 10em;
+height: 5em;
+color: green;
 }
